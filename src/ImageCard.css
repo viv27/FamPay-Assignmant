@@ -1,0 +1,10 @@
+.image-card {
+  width: 320px;
+  height: 146.67px;
+
+  display: flex;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}

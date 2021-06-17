@@ -1,0 +1,21 @@
+.ArrowCard {
+  display: flex;
+  text-align: center;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 320px;
+  margin: auto;
+  background-color: white;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.dynamic-image {
+  width: 30px;
+  height: 30px;
+}
+p {
+  font-size: 14px;
+  text-decoration: none;
+}

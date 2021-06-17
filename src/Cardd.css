@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+
+.container {
+  position: relative;
+}
+.center {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 260px;
+  height: 70px;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 35px;
+  font-family: Roboto;
+  text-align: left;
+}
+.down {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 251px;
+  height: 36px;
+  text-align: left;
+  font-family: Roboto;
+}
+
+button {
+  position: absolute;
+  top: 90%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  width: 128px;
+  height: 42px;
+  border-radius: 10px;
+  color: white;
+  background-color: black;
+}

@@ -1,0 +1,22 @@
+.wrapper {
+  margin: auto;
+  overflow-x: auto;
+}
+
+.image {
+  height: 30px;
+  width: 30px;
+}
+.card-one {
+  display: flex;
+  width: 61px;
+  height: 60px;
+  padding: 20px;
+  background-color: gray;
+  margin-right: 20px;
+}
+.card-two {
+  display: flex;
+  width: 161px;
+  height: 60px;
+}
